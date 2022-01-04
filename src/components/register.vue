@@ -150,7 +150,8 @@ export default {
         file1: null,
         language: "",
       },
-      gender: [{ text: "Select One", value: null }, "Male", "Female"],
+
+gender: [{ text: "Select One", value: null }, "Male", "Female"],
       show: true,
     };
   },
